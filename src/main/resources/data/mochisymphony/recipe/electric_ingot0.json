@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": null,
+  "group":null,
+  "key": {
+    "#": {
+      "item": "mochisymphony:electric_extract"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mochisymphony:electric_ingot"
+  }
+}

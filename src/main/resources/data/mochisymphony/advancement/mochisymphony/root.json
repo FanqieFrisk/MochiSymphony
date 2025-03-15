@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "world": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:dirt"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "mochisymphony:textures/block/rain_block.png",
+    "description": {
+      "translate": "advancements.mochisymphony.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "mochisymphony:mochi"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.mochisymphony.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "world"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

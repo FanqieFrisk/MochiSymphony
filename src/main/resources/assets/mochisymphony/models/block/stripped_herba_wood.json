@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "mochisymphony:block/stripped_herba_log",
+    "side": "mochisymphony:block/stripped_herba_log"
+  }
+}

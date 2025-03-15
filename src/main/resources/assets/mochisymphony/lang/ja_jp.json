@@ -1,0 +1,73 @@
+{
+  "itemGroup.mochi_blocks_group": "モチ交響曲 - ブロック",
+  "itemGroup.mochi_equipments_group": "モチ交響曲 - 装備",
+  "itemGroup.mochi_materials_group": "モチ交響曲 - 材料",
+  "itemGroup.mochi_fad_group": "モチ交響曲 - 食べ物と飲み物",
+  "itemGroup.mochi_nature_group": "モチ交響曲 - 自然",
+  "itemGroup.mochi_developing_group": "開発中",
+
+  "advancements.mochisymphony.root.title": "モチ交響曲",
+  "advancements.mochisymphony.root.description": "「それは紺碧の夢、そして深紅の血。」",
+  "advancements.mochisymphony.tanghulu.title": "タンフールー",
+  "advancements.mochisymphony.tanghulu.description": "jngtviukikjlkのタンフールー",
+
+  "item.mochisymphony.rain_crystal": "雨欠片",
+  "item.mochisymphony.rain_ingot": "雨インゴット",
+  "item.mochisymphony.electric_extract": "电欠片",
+  "item.mochisymphony.electric_ingot": "电インゴット",
+  "item.mochisymphony.herba_nugget": "草欠片",
+  "item.mochisymphony.herba_ingot": "草インゴット",
+  "item.mochisymphony.flame_crystalline": "火欠片",
+  "item.mochisymphony.flame_ingot": "火インゴット",
+  "item.mochisymphony.eclipse_ether": "冥喰汐欠片",
+  "item.mochisymphony.tenebrae_ether": "蝕蔓欠片",
+  "item.mochisymphony.abyss_dip": "深淵欠片",
+  "item.mochisymphony.abyss_ingot": "深淵インゴット",
+
+  "item.mochisymphony.rain_sword": "雨の剣",
+  "item.mochisymphony.rain_axe": "雨の斧",
+  "item.mochisymphony.rain_pickaxe": "雨のツルハシ",
+  "item.mochisymphony.rain_shovel": "雨のシャベル",
+  "item.mochisymphony.rain_hoe": "雨のクワ",
+
+  "item.mochisymphony.rain_helmet": "雨のヘルメット",
+  "item.mochisymphony.rain_chestplate": "雨のチェストプレート",
+  "item.mochisymphony.rain_leggings": "雨のレギンス",
+  "item.mochisymphony.rain_boots": "雨のブーツ",
+
+  "item.mochisymphony.mochi": "フォーチュン餅",
+  "item.mochisymphony.strawberry": "いちご",
+
+  "item.mochisymphony.rain_elf_spawn_egg": "雨フェアリースポーンエッグ",
+
+  "jukebox_song.mochisymphony.qrrs": "天体診療録 ～黒き経脈の航跡～ - 錆びた弦に降る量子の雨",
+  "item.mochisymphony.music_disc_qrrs": "錆びた弦に降る量子の雨",
+  "jukebox_song.mochisymphony.air": "### - イテレーション・リファクタリングの淵",
+  "item.mochisymphony.music_disc_air": "イテレーション・リファクタリングの淵",
+  "jukebox_song.mochisymphony.ur": "### - 果てぬ葬送",
+  "item.mochisymphony.music_disc_ur": "果てぬ葬送",
+
+  "block.mochisymphony.rain_crystal_ore": "雨欠片鉱石",
+  "block.mochisymphony.abyss_dip_ore": "深淵欠片鉱石",
+  "block.mochisymphony.electric_extract_ore": "电欠片鉱石",
+  "block.mochisymphony.flame_crystalline_ore": "火欠片鉱石",
+  "block.mochisymphony.herba_nugget_ore": "草欠片鉱石",
+
+  "block.mochisymphony.herba_wood": "草の木",
+  "block.mochisymphony.herba_log": "草の原木",
+  "block.mochisymphony.stripped_herba_wood": "樹皮を剥いだ草の木",
+  "block.mochisymphony.stripped_herba_log": "樹皮を剥いだ草の原木",
+  "block.mochisymphony.herba_sapling": "草の苗木",
+  "block.mochisymphony.herba_leaves": "草の葉",
+
+  "block.mochisymphony.rain_block": "雨ブロック",
+  "block.mochisymphony.rain_flower": "雨の花",
+
+  "entity.mochisymphony.rain_elf": "雨フェアリー",
+
+  "item.mochisymphony.hawthorn": "サンザシ",
+  "item.mochisymphony.candied_hawthorn": "サンザシの飴がけ",
+  "item.mochisymphony.tanghulu": "タンフールー"
+
+
+}

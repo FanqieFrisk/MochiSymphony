@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mochisymphony:block/flame_crystalline_ore"
+  }
+}

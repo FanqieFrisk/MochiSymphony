@@ -1,0 +1,73 @@
+{
+  "itemGroup.mochi_blocks_group": "Mochi Symphony - Blocks",
+  "itemGroup.mochi_equipments_group": "Mochi Symphony - Equipments",
+  "itemGroup.mochi_materials_group": "Mochi Symphony - Materials",
+  "itemGroup.mochi_fad_group": "Mochi Symphony - Food and Drinks",
+  "itemGroup.mochi_nature_group": "Mochi Symphony - Nature",
+  "itemGroup.mochi_developing_group": "Under development",
+
+  "advancements.mochisymphony.root.title": "Mochi Symphony",
+  "advancements.mochisymphony.root.description": "\"It is the azure dream—and the crimson blood.\"",
+  "advancements.mochisymphony.tanghulu.title": "Tanghulu",
+  "advancements.mochisymphony.tanghulu.description": "jngtviukikjlk's Tanghulu",
+
+
+  "item.mochisymphony.rain_crystal": "Rain Crystal",
+  "item.mochisymphony.rain_ingot": "Rain Ingot",
+  "item.mochisymphony.electric_extract": "Electric Extract",
+  "item.mochisymphony.electric_ingot": "Electric Ingot",
+  "item.mochisymphony.herba_nugget": "Herba Nugget",
+  "item.mochisymphony.herba_ingot": "Herba Ingot",
+  "item.mochisymphony.flame_crystalline": "Flame Crystalline",
+  "item.mochisymphony.flame_ingot": "Flame Ingot",
+  "item.mochisymphony.eclipse_ether": "Eclipse Ether",
+  "item.mochisymphony.tenebrae_ether": "Tenebrae Ether",
+  "item.mochisymphony.abyss_dip": "Abyss Dip",
+  "item.mochisymphony.abyss_ingot": "Abyss Ingot",
+
+  "item.mochisymphony.rain_sword": "Rain Sword",
+  "item.mochisymphony.rain_axe": "Rain Axe",
+  "item.mochisymphony.rain_pickaxe": "Rain Pickaxe",
+  "item.mochisymphony.rain_shovel": "Rain Shovel",
+  "item.mochisymphony.rain_hoe": "Rain Hoe",
+
+  "item.mochisymphony.rain_helmet": "Rain Helmet",
+  "item.mochisymphony.rain_chestplate": "Rain Chestplate",
+  "item.mochisymphony.rain_leggings": "Rain Leggings",
+  "item.mochisymphony.rain_boots": "Rain Boots",
+
+  "item.mochisymphony.mochi": "\" Mochi \"",
+  "item.mochisymphony.strawberry": "Strawberry",
+
+  "item.mochisymphony.rain_elf_spawn_egg": "Rain Elf Spawn Egg",
+
+  "jukebox_song.mochisymphony.qrrs": "Stardust Metastasis Codex - Quantum Rain on Rusted Strings",
+  "item.mochisymphony.music_disc_qrrs": "Quantum Rain on Rusted Strings",
+  "jukebox_song.mochisymphony.air": "### - Abyss of Iterative Refactoring",
+  "item.mochisymphony.music_disc_air": "Abyss of Iterative Refactoring",
+  "jukebox_song.mochisymphony.ur": "### - The Unconcluded Requiem",
+  "item.mochisymphony.music_disc_ur": "The Unconcluded Requiem",
+
+  "block.mochisymphony.rain_crystal_ore": "Rain Crystal Ore",
+  "block.mochisymphony.abyss_dip_ore": "Abyss Dip Ore",
+  "block.mochisymphony.electric_extract_ore": "Electric Exact Ore",
+  "block.mochisymphony.flame_crystalline_ore": "Flame Crystalline Ore",
+  "block.mochisymphony.herba_nugget_ore": "Herba Nugget Ore",
+
+  "block.mochisymphony.herba_wood": "Herba Wood",
+  "block.mochisymphony.herba_log": "Herba Log",
+  "block.mochisymphony.stripped_herba_wood": "Stripped Herba Log",
+  "block.mochisymphony.stripped_herba_log": "Stripped Herba Log",
+  "block.mochisymphony.herba_sapling": "Herba Sapling",
+  "block.mochisymphony.herba_leaves": "Herba Leaves",
+
+  "block.mochisymphony.rain_block": "Rain Block",
+  "block.mochisymphony.rain_flower": "Rain Flower",
+
+  "entity.mochisymphony.rain_elf": "Rain Elf",
+
+  "item.mochisymphony.hawthorn": "Hawthorn",
+  "item.mochisymphony.candied_hawthorn": "Candied Hawthorn",
+  "item.mochisymphony.tanghulu": "Tanghulu"
+
+}

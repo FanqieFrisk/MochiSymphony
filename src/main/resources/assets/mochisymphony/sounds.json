@@ -1,0 +1,17 @@
+{
+  "music_disc.qrrs": {
+    "sounds": [
+      "mochisymphony:qrrs"
+    ]
+  },
+  "music_disc.ur": {
+    "sounds": [
+      "mochisymphony:ur"
+    ]
+  },
+  "music_disc.air": {
+    "sounds": [
+      "mochisymphony:air"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "mochisymphony:rain_crystal_ore",
+    "mochisymphony:electric_extract_ore",
+    "mochisymphony:herba_nugget_ore",
+    "mochisymphony:flame_crystalline_ore",
+    "mochisymphony:rain_block"
+  ]
+}

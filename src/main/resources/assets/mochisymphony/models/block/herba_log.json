@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "mochisymphony:block/herba_log_top",
+    "side": "mochisymphony:block/herba_log"
+  }
+}

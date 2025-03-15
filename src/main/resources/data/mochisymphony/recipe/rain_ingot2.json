@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": null,
+  "cookingtime": 200,
+  "experience": 0.9,
+  "ingredient": {
+    "item": "mochisymphony:rain_crystal_ore"
+  },
+  "result": {
+    "id": "mochisymphony:rain_ingot"
+  }
+}

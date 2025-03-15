@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": null,
+  "group":null,
+  "key": {
+    "L": {
+      "item": "mochisymphony:hawthorn"
+    },
+    "V": {
+      "item": "minecraft:honey_bottle"
+    }
+  },
+  "pattern": [
+    "LLL",
+    "LVL",
+    "LLL"
+  ],
+  "result": {
+    "count": 8,
+    "id": "mochisymphony:candied_hawthorn"
+  }
+}

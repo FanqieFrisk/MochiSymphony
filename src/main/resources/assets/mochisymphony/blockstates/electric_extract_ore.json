@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mochisymphony:block/electric_extract_ore"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": null,
+  "group": null,
+  "ingredients": [
+    {
+      "item": "mochisymphony:eclipse_ether"
+    },
+    [
+      {
+        "item": "mochisymphony:tenebrae_ether"
+      }
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "mochisymphony:abyss_dip"
+  }
+}

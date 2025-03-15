@@ -1,0 +1,73 @@
+{
+  "itemGroup.mochi_blocks_group": "沫琪交响曲 - 方块",
+  "itemGroup.mochi_equipments_group": "沫琪交响曲 - 装备",
+  "itemGroup.mochi_materials_group": "沫琪交响曲 - 材料",
+  "itemGroup.mochi_fad_group": "沫琪交响曲 - 食物和饮品",
+  "itemGroup.mochi_nature_group": "沫琪交响曲 - 自然",
+  "itemGroup.mochi_developing_group": "开发中",
+
+  "advancements.mochisymphony.root.title": "沫琪交响曲",
+  "advancements.mochisymphony.root.description": "“那是蔚蓝的梦，与殷红的血。”",
+  "advancements.mochisymphony.tanghulu.title": "冰~糖~葫~芦~",
+  "advancements.mochisymphony.tanghulu.description": "贪吃的jngtviukikjlk和她的糖葫芦",
+
+  "item.mochisymphony.rain_crystal": "雨珀",
+  "item.mochisymphony.rain_ingot": "雨锭",
+  "item.mochisymphony.electric_extract": "雷霖",
+  "item.mochisymphony.electric_ingot": "雷锭",
+  "item.mochisymphony.herba_nugget": "芸璨",
+  "item.mochisymphony.herba_ingot": "芸锭",
+  "item.mochisymphony.flame_crystalline": "焰凝",
+  "item.mochisymphony.flame_ingot": "焰锭",
+  "item.mochisymphony.eclipse_ether": "渊以太",
+  "item.mochisymphony.tenebrae_ether": "墨以太",
+  "item.mochisymphony.abyss_dip": "渊墨玉",
+  "item.mochisymphony.abyss_ingot": "渊墨锭",
+
+  "item.mochisymphony.rain_sword": "雨剑",
+  "item.mochisymphony.rain_axe": "雨斧",
+  "item.mochisymphony.rain_pickaxe": "雨镐",
+  "item.mochisymphony.rain_shovel": "雨锹",
+  "item.mochisymphony.rain_hoe": "雨锄",
+
+  "item.mochisymphony.rain_helmet": "雨头盔",
+  "item.mochisymphony.rain_chestplate": "雨胸甲",
+  "item.mochisymphony.rain_leggings": "雨护腿",
+  "item.mochisymphony.rain_boots": "雨靴子",
+
+  "item.mochisymphony.mochi": "幸运糕",
+  "item.mochisymphony.strawberry": "草莓",
+
+  "item.mochisymphony.rain_elf_spawn_egg": "雨之呢喃刷怪蛋",
+
+  "jukebox_song.mochisymphony.qrrs": "星蚀病历本 - 锈蚀弦上的量子雨",
+  "item.mochisymphony.music_disc_qrrs": "锈蚀弦上的量子雨",
+  "jukebox_song.mochisymphony.air": "### - 迭代重构的深渊",
+  "item.mochisymphony.music_disc_air": "迭代重构的深渊",
+  "jukebox_song.mochisymphony.ur": "### - 未竟的安葬式",
+  "item.mochisymphony.music_disc_ur": "未竟的安葬式",
+
+  "block.mochisymphony.rain_crystal_ore": "雨珀矿",
+  "block.mochisymphony.abyss_dip_ore": "渊墨玉石",
+  "block.mochisymphony.electric_extract_ore": "雷霖叶",
+  "block.mochisymphony.herba_nugget_ore": "芸璨土",
+  "block.mochisymphony.flame_crystalline_ore": "焰凝岩",
+
+  "block.mochisymphony.herba_wood": "铃宴芸木",
+  "block.mochisymphony.herba_log": "铃宴芸原木",
+  "block.mochisymphony.stripped_herba_wood": "去皮铃宴芸木",
+  "block.mochisymphony.stripped_herba_log": "去皮铃宴芸原木",
+  "block.mochisymphony.herba_sapling": "铃宴芸树苗",
+  "block.mochisymphony.herba_leaves": "铃宴芸树叶",
+
+  "block.mochisymphony.rain_block": "雨块",
+  "block.mochisymphony.rain_flower": "雨花",
+
+  "entity.mochisymphony.rain_elf": "雨之呢喃",
+
+  "item.mochisymphony.hawthorn": "山楂",
+  "item.mochisymphony.candied_hawthorn": "糖浆山楂",
+  "item.mochisymphony.tanghulu": "§d[§c彩§e蛋§a物§b品§d]§r糖葫芦"
+
+
+}

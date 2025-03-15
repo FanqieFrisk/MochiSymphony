@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "jukebox_song.mochisymphony.qrrs"
+  },
+  "length_in_seconds": 109.0,
+  "sound_event": "mochisymphony:music_disc.qrrs"
+}

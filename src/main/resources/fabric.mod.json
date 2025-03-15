@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "mochisymphony",
+	"version": "${version}",
+	"name": "MochiSymphony",
+	"description": "沫琪的第一个自制模组！",
+	"authors": [
+		"FanqieTomato"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/mochisymphony/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.friskmochi.mochimod.MochiMod"
+		],
+		"client": [
+			"com.friskmochi.mochimod.MochiModClient"
+		],
+		"fabric-datagen": [
+			"com.friskmochi.mochimod.MochiModDataGenerator"
+		]
+	},
+	"mixins": [
+		"mochimod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

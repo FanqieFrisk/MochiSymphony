@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mochisymphony:herba_log",
+    "mochisymphony:herba_wood",
+    "mochisymphony:stripped_herba_log",
+    "mochisymphony:stripped_herba_wood"
+  ]
+}

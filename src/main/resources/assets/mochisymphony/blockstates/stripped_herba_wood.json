@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "mochisymphony:block/stripped_herba_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "mochisymphony:block/stripped_herba_wood"
+    },
+    "axis=z": {
+      "model": "mochisymphony:block/stripped_herba_wood",
+      "x": 90
+    }
+  }
+}

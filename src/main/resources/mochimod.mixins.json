@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.friskmochi.mochimod.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"MochiModMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"client": [
+		"RenderLayersMixin"
+	]
+}

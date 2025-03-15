@@ -1,0 +1,32 @@
+{
+  "parent":"mochisymphony:mochisymphony/root",
+  "display":{
+      "icon":{
+          "id":"mochisymphony:tanghulu"
+      },
+      "title":{
+        "translate":"advancements.mochisymphony.tanghulu.title"
+      },
+      "description":{
+        "translate":"advancements.mochisymphony.tanghulu.description"
+      },
+      "frame":"challenge",
+      "show_toast":true,
+      "announce_to_chat":true,
+      "hidden":false
+  },
+  "criteria":{
+      "tanghulu":{
+          "trigger":"minecraft:inventory_changed",
+          "conditions":{
+              "items":[
+                  {
+                      "items":[
+                          "mochisymphony:tanghulu"
+                      ]
+                  }
+              ]
+          }
+      }
+  }
+}
