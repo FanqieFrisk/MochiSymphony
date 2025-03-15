@@ -1,8 +1,9 @@
- /\_/\  
-( o.o )  
- > ^ <
-<FanqieFrisk> 喵…不会写README呢……
-<FanqieFrisk> 那就让GPT帮忙吧！
+  /\_/\  
+ ( o.o )  meow~  
+ -> ^ <-   
+
+FanqieFrisk : 喵…不会写README呢……
+FanqieFrisk : 那就让GPT帮忙吧！
 
 喵~ 欢迎来到 MochiSymphony 的世界！这是一个为 Minecraft Java 版 1.21.1 提供的 Fabric 模组，带给你全新的游戏体验，喵~
 
