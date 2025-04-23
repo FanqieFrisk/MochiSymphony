@@ -1,0 +1,23 @@
+{
+  "parent":"mochisymphony:mochisymphony/intermezzo2",
+  "display":{
+    "icon":{
+      "id":"minecraft:barrier"
+    },
+    "title":{
+      "translate":"advancements.mochisymphony.intermezzo3.title"
+    },
+    "description":{
+      "translate":"advancements.mochisymphony.intermezzo3.description"
+    },
+    "frame":"task",
+    "show_toast":true,
+    "announce_to_chat":true,
+    "hidden":true
+  },
+  "criteria":{
+    "intermezzo3":{
+      "trigger":"minecraft:impossible"
+    }
+  }
+}

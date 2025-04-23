@@ -5,11 +5,13 @@
 	"name": "MochiSymphony",
 	"description": "沫琪的第一个自制模组！",
 	"authors": [
-		"FanqieTomato"
+		"FanqieFrisk",
+		"FanqieTomato",
+		"MochiFrisk"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://main.mochifrisk.xyz/",
+		"sources": "https://github.com/FanqieFrisk/MochiSymphony"
 	},
 	"license": "MIT",
 	"icon": "assets/mochisymphony/icon.png",

@@ -1,0 +1,32 @@
+{
+  "parent":"mochisymphony:mochisymphony/prologue",
+  "display":{
+    "icon":{
+      "id":"mochisymphony:rain_sword"
+    },
+    "title":{
+      "translate":"advancements.mochisymphony.rain_sword.title"
+    },
+    "description":{
+      "translate":"advancements.mochisymphony.rain_sword.description"
+    },
+    "frame":"task",
+    "show_toast":true,
+    "announce_to_chat":true,
+    "hidden":true
+  },
+  "criteria":{
+    "rain_sword":{
+      "trigger":"minecraft:inventory_changed",
+      "conditions":{
+        "items":[
+          {
+            "items":[
+              "mochisymphony:rain_sword"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

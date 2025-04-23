@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": null,
+  "group":null,
+  "key": {
+    "O": {
+      "item": "minecraft:emerald"
+    },
+    "X": {
+      "item": "minecraft:book"
+    }
+  },
+  "pattern": [
+    "OOO",
+    "OXO",
+    "OOO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mochisymphony:ore_tome"
+  }
+}

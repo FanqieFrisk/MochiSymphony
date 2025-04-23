@@ -16,7 +16,9 @@ import java.util.EnumMap;
 import java.util.List;
 import java.util.function.Supplier;
 
+@SuppressWarnings("unchecked")
 public class ModArmorMaterials {
+    @SuppressWarnings("unchecked")
     public static final RegistryEntry<ArmorMaterial> RAIN = register("rain", Util.make(new EnumMap(ArmorItem.Type.class), map -> {
         map.put(ArmorItem.Type.BOOTS, 3);
         map.put(ArmorItem.Type.LEGGINGS, 6);

@@ -1,15 +1,45 @@
 {
   "itemGroup.mochi_blocks_group": "沫琪交响曲 - 方块",
-  "itemGroup.mochi_equipments_group": "沫琪交响曲 - 装备",
+  "itemGroup.mochi_equipments_group": "沫琪交响曲 - 装备与工具",
   "itemGroup.mochi_materials_group": "沫琪交响曲 - 材料",
   "itemGroup.mochi_fad_group": "沫琪交响曲 - 食物和饮品",
   "itemGroup.mochi_nature_group": "沫琪交响曲 - 自然",
-  "itemGroup.mochi_developing_group": "开发中",
 
   "advancements.mochisymphony.root.title": "沫琪交响曲",
   "advancements.mochisymphony.root.description": "“那是蔚蓝的梦，与殷红的血。”",
-  "advancements.mochisymphony.tanghulu.title": "冰~糖~葫~芦~",
+  "advancements.mochisymphony.tanghulu.title": "§d<§c彩§e蛋§a成§b就§d>§r冰~糖~葫~芦~",
   "advancements.mochisymphony.tanghulu.description": "贪吃的jngtviukikjlk和她的糖葫芦",
+  "advancements.mochisymphony.prologue.title": "暮雨为她而歌",
+  "advancements.mochisymphony.prologue.description": "获得雨珀",
+  "advancements.mochisymphony.rain_sword.title": "抽刀断水水更流",
+  "advancements.mochisymphony.rain_sword.description": "当第七滴§b雨§r在剑脊绽成泪花，§d雷§r鸣的种子便会在你掌心生根。",
+  "advancements.mochisymphony.rain_armor.title": "操吴戈兮被犀甲",
+  "advancements.mochisymphony.rain_armor.description": "旦为朝云，暮为行雨。（这真的不是钻石甲吗？）",
+  "advancements.mochisymphony.chapteri.title": "雷光孕于雨胎",
+  "advancements.mochisymphony.chapteri.description": "获得雷霖",
+  "advancements.mochisymphony.intermezzo1.title": "第一雨雷赋格",
+  "advancements.mochisymphony.intermezzo1.description": "初遇「深渊双生子」",
+  "advancements.mochisymphony.chapterii.title": "芸香带来的安眠曲",
+  "advancements.mochisymphony.chapterii.description": "获得芸璨",
+  "advancements.mochisymphony.chapteriii.title": "为未来盗取的火焰",
+  "advancements.mochisymphony.chapteriii.description": "获得焰凝",
+  "advancements.mochisymphony.intermezzo2.title": "幽咽的复调",
+  "advancements.mochisymphony.intermezzo2.description": "再遇「深渊双生子」",
+  "advancements.mochisymphony.chapteriv.title": "迭代重构的深渊",
+  "advancements.mochisymphony.chapteriv.description": "获得渊以太",
+  "advancements.mochisymphony.chapterv.title": "墨染的心终将陨落",
+  "advancements.mochisymphony.chapterv.description": "获得墨以太",
+  "advancements.mochisymphony.intermezzo3.title": "钟摆辩证法",
+  "advancements.mochisymphony.intermezzo3.description": "获得「熵织者，蚀忆的晦瞳」的力量",
+  "advancements.mochisymphony.chaptervi.title": "未竟的安葬式",
+  "advancements.mochisymphony.chaptervi.description": "获得渊墨玉",
+  "advancements.mochisymphony.chaptervii.title": "████的休止符",
+  "advancements.mochisymphony.chaptervii.description": "了解「月执」之末-稻荷千雪的过往",
+  "advancements.mochisymphony.final.title": "那是蔚蓝的梦，与殷红的血。",
+  "advancements.mochisymphony.final.description": "了解「月执」之首-沫琪Frisk的全部",
+
+  "effect.mochisymphony.lucky_glow": "幸运之光",
+  "effect.mochisymphony.exp_absorption": "经验汲取",
 
   "item.mochisymphony.rain_crystal": "雨珀",
   "item.mochisymphony.rain_ingot": "雨锭",
@@ -23,12 +53,17 @@
   "item.mochisymphony.tenebrae_ether": "墨以太",
   "item.mochisymphony.abyss_dip": "渊墨玉",
   "item.mochisymphony.abyss_ingot": "渊墨锭",
+  "item.mochisymphony.weatherforged_omnistruct_ingot": "「§f§ktrue§r§b天§d候§a锻§c冶§f·§6万§7象§e凝§8晶§1锭§f§klove§r」",
 
   "item.mochisymphony.rain_sword": "雨剑",
   "item.mochisymphony.rain_axe": "雨斧",
   "item.mochisymphony.rain_pickaxe": "雨镐",
   "item.mochisymphony.rain_shovel": "雨锹",
   "item.mochisymphony.rain_hoe": "雨锄",
+
+  "item.mochisymphony.flame_wand": "焰之法杖",
+  "item.mochisymphony.flame_wand.tooltip.line1": "岩浆淬炼成猩红玛瑙的史诗。",
+  "item.mochisymphony.flame_wand.tooltip.line2": "发射消耗物品：§c[焰凝]§r",
 
   "item.mochisymphony.rain_helmet": "雨头盔",
   "item.mochisymphony.rain_chestplate": "雨胸甲",
@@ -67,7 +102,18 @@
 
   "item.mochisymphony.hawthorn": "山楂",
   "item.mochisymphony.candied_hawthorn": "糖浆山楂",
-  "item.mochisymphony.tanghulu": "§d[§c彩§e蛋§a物§b品§d]§r糖葫芦"
+  "item.mochisymphony.tanghulu": "§d[§c彩§e蛋§a物§b品§d]§r糖葫芦",
+
+  "item.mochisymphony.element_tome": "七象探矿册",
+  "item.mochisymphony.ore_tome": "十脉探矿册",
+
+  "item.mochisymphony.tanghulu.tooltip": "§l§bjngtviukikjlk§r§c最喜欢的糖葫芦！§r",
+  "item.mochisymphony.weatherforged_omnistruct_ingot.tooltip_line1": "星穹古卷·终章第七预言节选：",
+  "item.mochisymphony.weatherforged_omnistruct_ingot.tooltip_line2": "当七重命运交织点燃银河涟漪之时，将会唤醒名为一切的梦之绘卷。",
+  "item.mochisymphony.element_tome.tooltip": "按下§a【SHIFT】§r获取更多信息。",
+  "item.mochisymphony.element_tome.shift_tooltip": "§6【右键】§r地面模糊搜索元素矿石。§6【Shift+右键】§r以精确搜索。",
+  "item.mochisymphony.ore_tome.tooltip": "按下§a【SHIFT】§r获取更多信息。",
+  "item.mochisymphony.ore_tome.shift_tooltip": "§6【右键】§r地面模糊搜索矿石。§6【Shift+右键】§r以精确搜索。"
 
 
 }

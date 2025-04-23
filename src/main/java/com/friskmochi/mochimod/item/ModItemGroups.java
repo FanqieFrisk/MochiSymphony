@@ -2,15 +2,14 @@ package com.friskmochi.mochimod.item;
 
 import com.friskmochi.mochimod.MochiMod;
 import com.friskmochi.mochimod.block.ModBlocks;
-import com.friskmochi.mochimod.sound.ModJukeboxSongs;
-import net.minecraft.item.Item;
+import com.friskmochi.mochimod.potion.ModPotions;
+import net.minecraft.item.ItemConvertible;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
-import net.minecraft.util.Rarity;
 
 public class ModItemGroups {
     public static final ItemGroup MOCHI_BLOCKS_GROUP = Registry.register(Registries.ITEM_GROUP,Identifier.of(MochiMod.MOD_ID,"mochi_blocks_group"),
@@ -45,6 +44,8 @@ public class ModItemGroups {
                     entries.add(ModBlocks.STRIPPED_HERBA_WOOD);
                     entries.add(ModBlocks.STRIPPED_HERBA_LOG);
 
+                    entries.add(ModItems.RAIN_ELF_SPAWN_EGG);
+
                     }).build());
 
 
@@ -61,6 +62,14 @@ public class ModItemGroups {
                     entries.add(ModItems.RAIN_CHESTPLATE);
                     entries.add(ModItems.RAIN_LEGGINGS);
                     entries.add(ModItems.RAIN_BOOTS);
+                    entries.add(ModItems.ORE_TOME);
+                    entries.add(ModItems.ELEMENT_TOME);
+                    entries.add(ModItems.FLAME_WAND);
+                    entries.add(ModItems.MUSIC_DISC_QRRS);
+                    entries.add(ModItems.MUSIC_DISC_AIR);
+                    entries.add(ModItems.MUSIC_DISC_UR);
+
+//                    entries.add(ModItems.ELECTRIC_SHIELD);
 
                 }).build());
 
@@ -85,6 +94,8 @@ public class ModItemGroups {
                     entries.add(ModItems.ABYSS_DIP);
                     entries.add(ModItems.ABYSS_INGOT);
 
+                    entries.add(ModItems.WEATHERFORGED_OMNISTRUCT_INGOT);
+
                 }).build());
 
     public static final ItemGroup MOCHI_FAD_GROUP = Registry.register(Registries.ITEM_GROUP,Identifier.of(MochiMod.MOD_ID,"mochi_fad_group"),
@@ -96,18 +107,7 @@ public class ModItemGroups {
                     entries.add(ModItems.HAWTHORN);
                     entries.add(ModItems.CANDIED_HAWTHORN);
                     entries.add(ModItems.TANGHULU);
-
-                }).build());
-
-    public static final ItemGroup MOCHI_DEVELOPING_GROUP = Registry.register(Registries.ITEM_GROUP,Identifier.of(MochiMod.MOD_ID,"mochi_developing_group"),
-            ItemGroup.create(null,-1).displayName(Text.translatable("itemGroup.mochi_developing_group"))
-                .icon(() -> new ItemStack(ModItems.GROUP_ICON))
-                .entries((displayContext, entries) -> {
-                    entries.add(ModItems.GROUP_ICON);
-                    entries.add(ModItems.MUSIC_DISC_QRRS);
-                    entries.add(ModItems.MUSIC_DISC_AIR);
-                    entries.add(ModItems.MUSIC_DISC_UR);
-                    entries.add(ModItems.RAIN_ELF_SPAWN_EGG);
+//                    entries.add(ModPotions.LUCKY_GLOW_POTION);
 
                 }).build());
 

@@ -1,16 +1,45 @@
 {
   "itemGroup.mochi_blocks_group": "Mochi Symphony - Blocks",
-  "itemGroup.mochi_equipments_group": "Mochi Symphony - Equipments",
+  "itemGroup.mochi_equipments_group": "Mochi Symphony - Equipments and Tools",
   "itemGroup.mochi_materials_group": "Mochi Symphony - Materials",
   "itemGroup.mochi_fad_group": "Mochi Symphony - Food and Drinks",
   "itemGroup.mochi_nature_group": "Mochi Symphony - Nature",
-  "itemGroup.mochi_developing_group": "Under development",
 
   "advancements.mochisymphony.root.title": "Mochi Symphony",
   "advancements.mochisymphony.root.description": "\"It is the azure dream—and the crimson blood.\"",
   "advancements.mochisymphony.tanghulu.title": "Tanghulu",
   "advancements.mochisymphony.tanghulu.description": "jngtviukikjlk's Tanghulu",
+  "advancements.mochisymphony.prologue.title": "Dusk Rain Sings for Her",
+  "advancements.mochisymphony.prologue.description": "Get rain crystal",
+  "advancements.mochisymphony.rain_sword.title": "Blocking current with drawn sword, but current flows on.",
+  "advancements.mochisymphony.rain_sword.description": "When the seventh drop of rain blossoms like a tear upon the sword's spine, the seed of thunder will take root in your palm.",
+  "advancements.mochisymphony.rain_armor.title": "Wielding spear, clad in armor",
+  "advancements.mochisymphony.rain_armor.description": "In the morning, I become the cloud; by evening, the roaming rain. (Is this really not diamond armor? )",
+  "advancements.mochisymphony.chapteri.title": "Electric Conceived in the Womb of Rain",
+  "advancements.mochisymphony.chapteri.description": "Get electric extract",
+  "advancements.mochisymphony.intermezzo1.title": "Fugue of the First Storm_ Op.1 for Thunder & Rainfall",
+  "advancements.mochisymphony.intermezzo1.description": "Meet「深渊双生子」for the first time",
+  "advancements.mochisymphony.chapterii.title": "Lullaby Brought by Herba",
+  "advancements.mochisymphony.chapterii.description": "Get herba nugget",
+  "advancements.mochisymphony.chapteriii.title": "Flames Stolen for the Future",
+  "advancements.mochisymphony.chapteriii.description": "Get flame crystalline",
+  "advancements.mochisymphony.intermezzo2.title": "Sobbing Polyphony",
+  "advancements.mochisymphony.intermezzo2.description": "Meet「深渊双生子」again",
+  "advancements.mochisymphony.chapteriv.title": "Abyss of Iterative Refactoring",
+  "advancements.mochisymphony.chapteriv.description": "Get eclipse ether",
+  "advancements.mochisymphony.chapterv.title": "The Ink-Stained Heart Shall Fall",
+  "advancements.mochisymphony.chapterv.description": "Get tenebrae ether",
+  "advancements.mochisymphony.intermezzo3.title": "Pendulum Dialectics",
+  "advancements.mochisymphony.intermezzo3.description": "Get the POWER of「熵织者，蚀忆的晦瞳」",
+  "advancements.mochisymphony.chaptervi.title": "The Unconcluded Requiem",
+  "advancements.mochisymphony.chaptervi.description": "Get abyss dip",
+  "advancements.mochisymphony.chaptervii.title": "████'s Rest",
+  "advancements.mochisymphony.chaptervii.description": "Understand「月执」之末-InariChiyuki's past",
+  "advancements.mochisymphony.final.title": "It is the azure dream—and the crimson blood.",
+  "advancements.mochisymphony.final.description": "Know all about「月执」之首-MochiFrisk",
 
+  "effect.mochisymphony.lucky_glow": "Lucky Glow",
+  "effect.mochisymphony.exp_absorption": "Exp Absorption",
 
   "item.mochisymphony.rain_crystal": "Rain Crystal",
   "item.mochisymphony.rain_ingot": "Rain Ingot",
@@ -24,12 +53,17 @@
   "item.mochisymphony.tenebrae_ether": "Tenebrae Ether",
   "item.mochisymphony.abyss_dip": "Abyss Dip",
   "item.mochisymphony.abyss_ingot": "Abyss Ingot",
+  "item.mochisymphony.weatherforged_omnistruct_ingot": "Weatherforged Omnistruct Ingot",
 
   "item.mochisymphony.rain_sword": "Rain Sword",
   "item.mochisymphony.rain_axe": "Rain Axe",
   "item.mochisymphony.rain_pickaxe": "Rain Pickaxe",
   "item.mochisymphony.rain_shovel": "Rain Shovel",
   "item.mochisymphony.rain_hoe": "Rain Hoe",
+
+  "item.mochisymphony.flame_wand": "Flame Wand",
+  "item.mochisymphony.flame_wand.tooltip.line1": "An epic forged from magma into crimson agate.",
+  "item.mochisymphony.flame_wand.tooltip.line2": "Consumes item on launch: §c[Flame Crystalline]§r",
 
   "item.mochisymphony.rain_helmet": "Rain Helmet",
   "item.mochisymphony.rain_chestplate": "Rain Chestplate",
@@ -68,6 +102,18 @@
 
   "item.mochisymphony.hawthorn": "Hawthorn",
   "item.mochisymphony.candied_hawthorn": "Candied Hawthorn",
-  "item.mochisymphony.tanghulu": "Tanghulu"
+  "item.mochisymphony.tanghulu": "Tanghulu",
+
+  "item.mochisymphony.element_tome": "Element Tome",
+  "item.mochisymphony.ore_tome": "Ore Tome",
+
+  "item.mochisymphony.tanghulu.tooltip": "§l§bjngtviukikjlk§r§c's favourite tanghulu!§r",
+  "item.mochisymphony.weatherforged_omnistruct_ingot.tooltip_line1": "Excerpt from the Seventh Prophecy of the Final Chapter of the Starry Sky Scroll: ",
+  "item.mochisymphony.weatherforged_omnistruct_ingot.tooltip_line2": "When the sevenfold fate intertwines and ignites the ripples of the Milky Way, it will awaken the dream scroll known as everything.",
+  "item.mochisymphony.element_tome.tooltip": "Press §a[SHIFT]§r for more info.",
+  "item.mochisymphony.element_tome.shift_tooltip": "§6[Right Click]§r the ground to fuzzily search for elemental ores. §6[Shift + Right Click]§r for a precise scan.",
+  "item.mochisymphony.ore_tome.tooltip": "Press §a[SHIFT]§r for more info.",
+  "item.mochisymphony.ore_tome.shift_tooltip": "§6[Right Click]§r the ground to fuzzily search for ores. §6[Shift + Right Click]§r for a precise scan."
+
 
 }

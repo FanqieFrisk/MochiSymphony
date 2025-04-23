@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:jigsaw",
+
+  "start_pool": "mochisymphony:moonlight_ruin/start_pool",
+
+  "size": 1,
+
+  "max_distance_from_center": 1,
+
+  "biomes": "#mochisymphony:has_structure/moonlight_ruin",
+
+  "step": "surface_structures",
+
+  "start_height": {
+    "absolute": 0
+  },
+
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+
+  "use_expansion_hack": false,
+
+  "spawn_overrides": {
+    "creature": {
+      "bounding_box": "piece",
+      "spawns": []
+    }
+  }
+}

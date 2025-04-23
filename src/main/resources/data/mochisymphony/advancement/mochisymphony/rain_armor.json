@@ -1,0 +1,46 @@
+{
+  "parent": "mochisymphony:mochisymphony/chapteri",
+  "criteria": {
+    "rain_armor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mochisymphony:rain_helmet"
+          },
+          {
+            "items": "mochisymphony:rain_chestplate"
+          },
+          {
+            "items": "mochisymphony:rain_leggings"
+          },
+          {
+            "items": "mochisymphony:rain_boots"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.mochisymphony.rain_armor.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "mochisymphony:rain_chestplate"
+    },
+    "title": {
+      "translate": "advancements.mochisymphony.rain_armor.title"
+    }
+  },
+  "requirements": [
+    [
+      "rain_armor"
+    ]
+  ],
+  "rewards": {
+    "experience": 500
+  },
+  "sends_telemetry_event": true
+}

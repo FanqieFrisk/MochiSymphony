@@ -1,0 +1,23 @@
+{
+  "parent":"mochisymphony:mochisymphony/prologue",
+  "display":{
+    "icon":{
+      "id":"mochisymphony:electric_extract"
+    },
+    "title":{
+      "translate":"advancements.mochisymphony.chapteri.title"
+    },
+    "description":{
+      "translate":"advancements.mochisymphony.chapteri.description"
+    },
+    "frame":"task",
+    "show_toast":true,
+    "announce_to_chat":true,
+    "hidden":true
+  },
+  "criteria":{
+    "chapteri":{
+      "trigger":"minecraft:impossible"
+    }
+  }
+}

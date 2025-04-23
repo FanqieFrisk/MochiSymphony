@@ -1,6 +1,6 @@
 {
   "criteria": {
-    "world": {
+    "mochisymphony": {
       "conditions": {
         "items": [
           {
@@ -28,7 +28,7 @@
   },
   "requirements": [
     [
-      "world"
+      "mochisymphony"
     ]
   ],
   "sends_telemetry_event": true

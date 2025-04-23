@@ -4,6 +4,7 @@ import com.friskmochi.mochimod.datagen.*;
 import com.friskmochi.mochimod.sound.ModJukeboxSongs;
 import com.friskmochi.mochimod.world.ModConfiguredFeatures;
 import com.friskmochi.mochimod.world.ModPlacedFeatures;
+import com.friskmochi.mochimod.world.gen.ModWorldGeneration;
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
 import net.minecraft.registry.RegistryBuilder;

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": null,
+  "group":null,
+  "key": {
+    "O": {
+      "tag": "mochisymphony:elements"
+    },
+    "X": {
+      "item": "mochisymphony:ore_tome"
+    }
+  },
+  "pattern": [
+    "OOO",
+    "OXO",
+    "OOO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mochisymphony:element_tome"
+  }
+}

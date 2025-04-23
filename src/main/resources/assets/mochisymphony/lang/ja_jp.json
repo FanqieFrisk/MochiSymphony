@@ -1,15 +1,45 @@
 {
   "itemGroup.mochi_blocks_group": "モチ交響曲 - ブロック",
-  "itemGroup.mochi_equipments_group": "モチ交響曲 - 装備",
+  "itemGroup.mochi_equipments_group": "モチ交響曲 - 装備とツール",
   "itemGroup.mochi_materials_group": "モチ交響曲 - 材料",
   "itemGroup.mochi_fad_group": "モチ交響曲 - 食べ物と飲み物",
   "itemGroup.mochi_nature_group": "モチ交響曲 - 自然",
-  "itemGroup.mochi_developing_group": "開発中",
 
   "advancements.mochisymphony.root.title": "モチ交響曲",
   "advancements.mochisymphony.root.description": "「それは紺碧の夢、そして深紅の血。」",
   "advancements.mochisymphony.tanghulu.title": "タンフールー",
   "advancements.mochisymphony.tanghulu.description": "jngtviukikjlkのタンフールー",
+  "advancements.mochisymphony.prologue.title": "雨、彼女のために歌う",
+  "advancements.mochisymphony.prologue.description": "雨欠片を手に入れる",
+  "advancements.mochisymphony.rain_sword.title": "刀を抽（ひ）き水を断（た）つ、水は更（さら）に流（なが）る。",
+  "advancements.mochisymphony.rain_sword.description": "七つ目の雨粒が剣の背で涙のように花開くとき、雷の種はあなたの掌に根を下ろす。",
+  "advancements.mochisymphony.rain_armor.title": "戈を操り、鎧をまとう",
+  "advancements.mochisymphony.rain_armor.description": "朝は雲となり、夕べには雨となる。（これ、本当にダイアモンドの防具じゃないの？）",
+  "advancements.mochisymphony.chapteri.title": "电、雨の胸に孕む",
+  "advancements.mochisymphony.chapteri.description": "电欠片を手に入れる",
+  "advancements.mochisymphony.intermezzo1.title": "第一雨雷フーガ",
+  "advancements.mochisymphony.intermezzo1.description": "「深渊双生子」に初めて出会った",
+  "advancements.mochisymphony.chapterii.title": "草がもたらす子守唄",
+  "advancements.mochisymphony.chapterii.description": "草欠片を手に入れる",
+  "advancements.mochisymphony.chapteriii.title": "未来のために盗まれた火",
+  "advancements.mochisymphony.chapteriii.description": "火欠片を手に入れる",
+  "advancements.mochisymphony.intermezzo2.title": "幽咽（ゆうえつ）のポリフォニー",
+  "advancements.mochisymphony.intermezzo2.description": "もう一度「深渊双生子」に出会う",
+  "advancements.mochisymphony.chapteriv.title": "イテレーション・リファクタリングの淵",
+  "advancements.mochisymphony.chapteriv.description": "冥喰汐欠片を手に入れる",
+  "advancements.mochisymphony.chapterv.title": "墨染めの心、終（つい）に堕つ",
+  "advancements.mochisymphony.chapterv.description": "蝕蔓欠片を手に入れる",
+  "advancements.mochisymphony.intermezzo3.title": "振り子の弁証法",
+  "advancements.mochisymphony.intermezzo3.description": "「熵织者，蚀忆的晦瞳」の力を手に入れる",
+  "advancements.mochisymphony.chaptervi.title": "果てぬ葬送",
+  "advancements.mochisymphony.chaptervi.description": "深淵欠片を手に入れる",
+  "advancements.mochisymphony.chaptervii.title": "████の休止符",
+  "advancements.mochisymphony.chaptervii.description": "「月执」之末-稲荷千雪の過去を知る",
+  "advancements.mochisymphony.final.title": "それは紺碧の夢、そして深紅の血。",
+  "advancements.mochisymphony.final.description": "「月执」之首-沫琪Friskのすべてを知る",
+
+  "effect.mochisymphony.lucky_glow": "ラッキーグロー",
+  "effect.mochisymphony.exp_absorption": "経験吸収",
 
   "item.mochisymphony.rain_crystal": "雨欠片",
   "item.mochisymphony.rain_ingot": "雨インゴット",
@@ -23,12 +53,17 @@
   "item.mochisymphony.tenebrae_ether": "蝕蔓欠片",
   "item.mochisymphony.abyss_dip": "深淵欠片",
   "item.mochisymphony.abyss_ingot": "深淵インゴット",
+  "item.mochisymphony.weatherforged_omnistruct_ingot": "天候鍛冶・万象結晶インゴット",
 
   "item.mochisymphony.rain_sword": "雨の剣",
   "item.mochisymphony.rain_axe": "雨の斧",
   "item.mochisymphony.rain_pickaxe": "雨のツルハシ",
   "item.mochisymphony.rain_shovel": "雨のシャベル",
   "item.mochisymphony.rain_hoe": "雨のクワ",
+
+  "item.mochisymphony.flame_wand": "火の杖",
+  "item.mochisymphony.flame_wand.tooltip.line1": "マグマで鍛えられ、深紅の瑪瑙へと昇華された叙事詩。",
+  "item.mochisymphony.flame_wand.tooltip.line2": "発射時に消費されるアイテム：§c[火欠片]§r",
 
   "item.mochisymphony.rain_helmet": "雨のヘルメット",
   "item.mochisymphony.rain_chestplate": "雨のチェストプレート",
@@ -67,7 +102,16 @@
 
   "item.mochisymphony.hawthorn": "サンザシ",
   "item.mochisymphony.candied_hawthorn": "サンザシの飴がけ",
-  "item.mochisymphony.tanghulu": "タンフールー"
+  "item.mochisymphony.tanghulu": "タンフールー",
 
+  "item.mochisymphony.element_tome": "七象探鉱書",
+  "item.mochisymphony.ore_tome": "十脉探鉱書",
 
+  "item.mochisymphony.tanghulu.tooltip": "§l§bjngtviukikjlk§r§cの大好きなタンフールー！§r",
+  "item.mochisymphony.weatherforged_omnistruct_ingot.tooltip_line1": "星穹古巻・終章第七予言の抜粋：",
+  "item.mochisymphony.weatherforged_omnistruct_ingot.tooltip_line2": "七重の運命が交わり、銀河の波紋が灯される時、「すべて」と呼ばれる夢の巻物が目覚める。",
+  "item.mochisymphony.element_tome.tooltip": "§a【SHIFT】§rキーで詳細を表示。",
+  "item.mochisymphony.element_tome.shift_tooltip": "地面を§6【右クリック】§rで元素鉱石を曖昧に探知。§6【Shift＋右クリック】§rで精密探知。",
+  "item.mochisymphony.ore_tome.tooltip": "§a【SHIFT】§rキーで詳細を表示。",
+  "item.mochisymphony.ore_tome.shift_tooltip": "地面を§6【右クリック】§rで鉱石を曖昧に探知。§6【Shift＋右クリック】§rで精密探知。"
 }

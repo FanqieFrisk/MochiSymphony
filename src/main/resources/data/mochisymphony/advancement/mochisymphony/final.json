@@ -1,0 +1,23 @@
+{
+  "parent":"mochisymphony:mochisymphony/chaptervii",
+  "display":{
+    "icon":{
+      "id":"mochisymphony:mochi"
+    },
+    "title":{
+      "translate":"advancements.mochisymphony.final.title"
+    },
+    "description":{
+      "translate":"advancements.mochisymphony.final.description"
+    },
+    "frame":"task",
+    "show_toast":true,
+    "announce_to_chat":true,
+    "hidden":true
+  },
+  "criteria":{
+    "final":{
+      "trigger":"minecraft:impossible"
+    }
+  }
+}

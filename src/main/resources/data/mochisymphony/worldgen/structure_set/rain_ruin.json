@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "mochisymphony:rain_ruin",
+      "weight": 1
+    }
+  ],
+  "placement": {
+
+    "salt": 297673452,
+
+    "spacing": 20,
+
+    "separation": 16,
+
+    "type": "minecraft:random_spread"
+  }
+}

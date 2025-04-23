@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "mochisymphony:item/flame_wand"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "pulling": 1
+      },
+      "model": "mochisymphony:item/flame_wand_pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.3
+      },
+      "model": "mochisymphony:item/flame_wand_pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.5
+      },
+      "model": "mochisymphony:item/flame_wand_pulling_2"
+    }
+  ]
+
+}

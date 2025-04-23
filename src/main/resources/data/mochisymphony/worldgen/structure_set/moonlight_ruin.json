@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "mochisymphony:moonlight_ruin",
+      "weight": 1
+    }
+  ],
+  "placement": {
+
+    "salt": 20080730,
+
+    "spacing": 32,
+
+    "separation": 24,
+
+    "type": "minecraft:random_spread"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": null,
+  "group":null,
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "R": {
+      "item": "mochisymphony:rain_ingot"
+    },
+    "E": {
+      "item": "mochisymphony:electric_ingot"
+    },
+    "H": {
+      "item": "mochisymphony:herba_ingot"
+    },
+    "F": {
+      "item": "mochisymphony:flame_ingot"
+    },
+    "A": {
+      "item": "mochisymphony:abyss_ingot"
+    }
+  },
+  "pattern": [
+    "CIG",
+    "NRE",
+    "HFA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mochisymphony:weatherforged_omnistruct_ingot"
+  }
+}
