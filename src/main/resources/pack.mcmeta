@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "MochiSymphony Language Pack"
+  },
+  "language": {
+    "mo_mc": {
+      "name": "沫琪交响曲-熵织语",
+      "region": "将世界观语言转为Minecraft原版风格",
+      "bidirectional": false
+    }
+  }
+}

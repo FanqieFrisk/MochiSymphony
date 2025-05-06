@@ -17,6 +17,7 @@ public class ModItemGroups {
                 .icon(() -> new ItemStack(ModBlocks.RAIN_BLOCK))
                 .entries((displayContext, entries) -> {
                     entries.add(ModBlocks.RAIN_BLOCK);
+                    entries.add(ModBlocks.CHISELED_POLISHED_RAIN_BLOCK);
 
                     entries.add(ModBlocks.RAIN_CRYSTAL_ORE);
                     entries.add(ModBlocks.ELECTRIC_EXTRACT_ORE);

@@ -21,6 +21,7 @@ public class ModBlocks {
     public static final Block HERBA_NUGGET_ORE = register("herba_nugget_ore",new Block(AbstractBlock.Settings.copy(Blocks.DIAMOND_ORE)));
 
     public static final Block RAIN_BLOCK = register("rain_block",new Block(AbstractBlock.Settings.create().strength(3.0F,3.0f)));
+    public static final Block CHISELED_POLISHED_RAIN_BLOCK = register("chiseled_polished_rain_block",new Block(AbstractBlock.Settings.create().strength(3.0F,3.0f)));
 
     public static final Block HERBA_LEAVES = register("herba_leaves",
             new LeavesBlock(AbstractBlock.Settings.copy(Blocks.AZALEA_LEAVES)));

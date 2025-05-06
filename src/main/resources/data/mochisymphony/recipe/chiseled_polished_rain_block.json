@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mochisymphony:rain_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "mochisymphony:chiseled_polished_rain_block"
+  }
+}
