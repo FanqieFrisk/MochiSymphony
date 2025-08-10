@@ -15,8 +15,8 @@ public class ModPotions {
             new StatusEffectInstance(Registries.STATUS_EFFECT.getEntry(ModStatusEffects.LUCKY_GLOW), 3600)));
 
 
-    private static Potion registerPotions(String name, Potion potion) {
-        return Registry.register(Registries.POTION, Identifier.of(MochiMod.MOD_ID, name), potion);
+    private static Potion registerPotions(String id, Potion potion) {
+        return Registry.register(Registries.POTION, Identifier.of(MochiMod.MOD_ID, id), potion);
     }
 
     public static void registerModPotions(){

@@ -16,16 +16,16 @@ import java.util.EnumMap;
 import java.util.List;
 import java.util.function.Supplier;
 
-@SuppressWarnings("unchecked")
+
 public class ModArmorMaterials {
-    @SuppressWarnings("unchecked")
+
     public static final RegistryEntry<ArmorMaterial> RAIN = register("rain", Util.make(new EnumMap(ArmorItem.Type.class), map -> {
-        map.put(ArmorItem.Type.BOOTS, 3);
-        map.put(ArmorItem.Type.LEGGINGS, 6);
-        map.put(ArmorItem.Type.CHESTPLATE, 8);
-        map.put(ArmorItem.Type.HELMET, 3);
-        map.put(ArmorItem.Type.BODY, 11);
-    }), 15, SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 3.0F, 0.1F, () -> Ingredient.ofItems(ModItems.RAIN_INGOT));
+        map.put(ArmorItem.Type.BOOTS, 2);
+        map.put(ArmorItem.Type.LEGGINGS, 5);
+        map.put(ArmorItem.Type.CHESTPLATE, 7);
+        map.put(ArmorItem.Type.HELMET, 2);
+        map.put(ArmorItem.Type.BODY, 10);
+    }), 14, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 2.0F, 0.0F, () -> Ingredient.ofItems(ModItems.RAIN_INGOT));
 
     private static RegistryEntry<ArmorMaterial> register(
             String id,

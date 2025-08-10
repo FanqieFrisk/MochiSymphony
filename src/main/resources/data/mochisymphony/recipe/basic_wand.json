@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": null,
+  "group":null,
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    " XX",
+    " #X",
+    "#  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mochisymphony:basic_wand"
+  }
+}

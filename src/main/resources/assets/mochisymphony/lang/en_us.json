@@ -5,6 +5,8 @@
   "itemGroup.mochi_fad_group": "Mochi Symphony - Food and Drinks",
   "itemGroup.mochi_nature_group": "Mochi Symphony - Nature",
 
+  "gui.alchemy_table_block.text": "Alchemy Table",
+
   "advancements.mochisymphony.root.title": "Mochi Symphony",
   "advancements.mochisymphony.root.description": "\"It is the azure dream—and the crimson blood.\"",
   "advancements.mochisymphony.tanghulu.title": "Tanghulu",
@@ -61,10 +63,27 @@
   "item.mochisymphony.rain_shovel": "Rain Shovel",
   "item.mochisymphony.rain_hoe": "Rain Hoe",
 
+  "item.mochisymphony.basic_wand": "Basic Wand",
+  "item.mochisymphony.basic_wand.tooltip.line1": "The most basic wand.",
+  "item.mochisymphony.basic_wand.tooltip.line2": "3s cooldown, deals 8 magic damage to a single target.",
+  "item.mochisymphony.basic_wand.tooltip.line3": "Consumes on cast: §e【Gold Ingot】§r",
+  "item.mochisymphony.rain_wand": "Rain Wand",
+  "item.mochisymphony.rain_wand.tooltip.line1": "Liquid memories crystallize into blue teardrops.",
+  "item.mochisymphony.rain_wand.tooltip.line2": "30s cooldown, lasts 8s. Charged attack deals magic damage in a 15-block straight line, gradually decreasing from 15 to 5.",
+  "item.mochisymphony.rain_wand.tooltip.line3": "Consumes on cast: §b[Rain Crystal]§r",
+  "item.mochisymphony.electric_wand": "Electric Wand",
+  "item.mochisymphony.electric_wand.tooltip.line1": "Lightning etches ancient mantras into leaf veins.",
+  "item.mochisymphony.electric_wand.tooltip.line2": "5s cooldown. Deals 20 magic damage in a 10-block diameter area centered on the caster, inflicting Slowness and Mining Fatigue for 4s.",
+  "item.mochisymphony.electric_wand.tooltip.line3": "Consumes on cast: §d[Electric Extract]§r",
+  "item.mochisymphony.herba_wand": "Herba Wand",
+  "item.mochisymphony.herba_wand.tooltip.line1": "The soil blooms with stardust-like phosphorescence.",
+  "item.mochisymphony.herba_wand.tooltip.line2": "100s cooldown. Grants 20 extra hearts for 50s, along with 30s Regeneration and 20s Resistance.",
+  "item.mochisymphony.herba_wand.tooltip.line3": "Consumes on cast: §a[Herba Nugget]§r",
+  "item.mochisymphony.herba_wand.no_nugget": "Not enough: §a[Herba Nugget]§r",
   "item.mochisymphony.flame_wand": "Flame Wand",
-  "item.mochisymphony.flame_wand.tooltip.line1": "An epic forged from magma into crimson agate.",
-  "item.mochisymphony.flame_wand.tooltip.line2": "Consumes item on launch: §c[Flame Crystalline]§r",
-
+  "item.mochisymphony.flame_wand.tooltip.line1": "Lava tempered into a crimson agate epic.",
+  "item.mochisymphony.flame_wand.tooltip.line2": "3s cooldown. Deals up to 13 magic damage in a 30-block line.",
+  "item.mochisymphony.flame_wand.tooltip.line3": "Consumes on cast: §c[Flame Crystalline]§r",
   "item.mochisymphony.rain_helmet": "Rain Helmet",
   "item.mochisymphony.rain_chestplate": "Rain Chestplate",
   "item.mochisymphony.rain_leggings": "Rain Leggings",
@@ -84,9 +103,11 @@
 
   "block.mochisymphony.rain_crystal_ore": "Rain Crystal Ore",
   "block.mochisymphony.abyss_dip_ore": "Abyss Dip Ore",
-  "block.mochisymphony.electric_extract_ore": "Electric Exact Ore",
+  "block.mochisymphony.electric_extract_ore": "Electric Extract Ore",
   "block.mochisymphony.flame_crystalline_ore": "Flame Crystalline Ore",
   "block.mochisymphony.herba_nugget_ore": "Herba Nugget Ore",
+
+  "block.mochisymphony.alchemy_table": "Alchemy Table",
 
   "block.mochisymphony.herba_wood": "Herba Wood",
   "block.mochisymphony.herba_log": "Herba Log",

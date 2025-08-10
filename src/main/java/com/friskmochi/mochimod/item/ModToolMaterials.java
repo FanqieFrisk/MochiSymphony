@@ -10,7 +10,11 @@ import net.minecraft.registry.tag.TagKey;
 import java.util.function.Supplier;
 
 public enum ModToolMaterials implements ToolMaterial {
-    RAIN(BlockTags.INCORRECT_FOR_IRON_TOOL,2031,9.0f,2.0f,30, () -> Ingredient.ofItems(ModItems.RAIN_INGOT)),
+    RAIN(BlockTags.INCORRECT_FOR_IRON_TOOL, 1500, 7.0f, 2.5f, 22, () -> Ingredient.ofItems(ModItems.RAIN_INGOT)),
+    ELECTRIC(BlockTags.INCORRECT_FOR_IRON_TOOL, 800, 9.0f, 3.5f, 15, () -> Ingredient.ofItems(ModItems.ELECTRIC_INGOT)),
+    HERBA(BlockTags.INCORRECT_FOR_IRON_TOOL, 2000, 5.0f, 1.5f, 30, () -> Ingredient.ofItems(ModItems.HERBA_INGOT)),
+    FLAME(BlockTags.INCORRECT_FOR_IRON_TOOL, 1600, 7.5f, 2.5f, 25, () -> Ingredient.ofItems(ModItems.FLAME_INGOT)),
+    ABYSS(BlockTags.INCORRECT_FOR_DIAMOND_TOOL, 2300, 9.5f, 4.0f, 77, () -> Ingredient.ofItems(ModItems.ABYSS_INGOT)),
     HAWTHORN(BlockTags.INCORRECT_FOR_IRON_TOOL,300,9.0f,2.0f,100, () -> Ingredient.ofItems(ModItems.HAWTHORN));
 
     private final TagKey<Block> inverseTag;

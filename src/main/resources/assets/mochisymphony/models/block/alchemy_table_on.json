@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "mochisymphony:block/alchemy_table_front_activated",
+    "side": "mochisymphony:block/alchemy_table_side",
+    "top": "mochisymphony:block/alchemy_table_top"
+  }
+}

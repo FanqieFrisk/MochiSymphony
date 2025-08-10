@@ -1,0 +1,18 @@
+{
+  "type": "mochisymphony:alchemy_table",
+  "ingredient": [
+    {
+      "item": "mochisymphony:abyss_dip"
+    },
+    {
+      "item": "mochisymphony:herba_ingot"
+    },
+    {
+      "item": "mochisymphony:basic_wand"
+    }
+  ],
+  "result": {
+    "id": "mochisymphony:herba_wand"
+  },
+  "craft_time": 600
+}

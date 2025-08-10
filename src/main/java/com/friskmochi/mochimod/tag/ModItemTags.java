@@ -8,8 +8,8 @@ import net.minecraft.util.Identifier;
 
 
 public class ModItemTags {
-    public static final TagKey<Item> WAND_PROJECTILES = of("wand_projectiles");
     public static final TagKey<Item> ELEMENTS = of("elements");
+    public static final TagKey<Item> ELEMENT_INGOTS = of("element_ingots");
 
     private static TagKey<Item> of(String id) {
         return TagKey.of(RegistryKeys.ITEM, Identifier.of(MochiMod.MOD_ID, id));

@@ -55,23 +55,33 @@ public class ModItems {
 
 
     public static final Item RAIN_SWORD = registerItems("rain_sword",
-            new SwordItem(ModToolMaterials.RAIN,new Item.Settings().attributeModifiers(SwordItem.createAttributeModifiers
-                    (ModToolMaterials.RAIN,8,1f))));
+            new RainSwordItem(ModToolMaterials.RAIN,new Item.Settings().attributeModifiers(SwordItem.createAttributeModifiers
+                    (ModToolMaterials.RAIN,5,1f))));
     public static final Item RAIN_AXE = registerItems("rain_axe",
             new AxeItem(ModToolMaterials.RAIN,new Item.Settings().attributeModifiers(AxeItem.createAttributeModifiers
-                    (ModToolMaterials.RAIN,10,-3.0f))));
+                    (ModToolMaterials.RAIN,7,-3.0f))));
     public static final Item RAIN_PICKAXE = registerItems("rain_pickaxe",
             new PickaxeItem(ModToolMaterials.RAIN,new Item.Settings().attributeModifiers(PickaxeItem.createAttributeModifiers
-                    (ModToolMaterials.RAIN,5,-1.0f))));
+                    (ModToolMaterials.RAIN,3,-1.0f))));
     public static final Item RAIN_SHOVEL = registerItems("rain_shovel",
             new ShovelItem(ModToolMaterials.RAIN,new Item.Settings().attributeModifiers(ShovelItem.createAttributeModifiers
-                    (ModToolMaterials.RAIN,4,-1.0f))));
+                    (ModToolMaterials.RAIN,2,-1.0f))));
     public static final Item RAIN_HOE = registerItems("rain_hoe",
             new HoeItem(ModToolMaterials.RAIN,new Item.Settings().attributeModifiers(HoeItem.createAttributeModifiers
-                    (ModToolMaterials.RAIN,3,-1.0f))));
+                    (ModToolMaterials.RAIN,1,-1.0f))));
 
+    public static final Item BASIC_WAND = registerItems("basic_wand",
+            new BasicWandItem(new Item.Settings().maxCount(1).rarity(Rarity.RARE)));
+    public static final Item RAIN_WAND = registerItems("rain_wand",
+            new RainWandItem(new Item.Settings().maxCount(1).rarity(Rarity.EPIC)));
+    public static final Item ELECTRIC_WAND = registerItems("electric_wand",
+            new ElectricWandItem(new Item.Settings().maxCount(1).rarity(Rarity.EPIC)));
+    public static final Item HERBA_WAND = registerItems("herba_wand",
+            new HerbaWandItem(new Item.Settings().maxCount(1).rarity(Rarity.EPIC)));
     public static final Item FLAME_WAND = registerItems("flame_wand",
             new FlameWandItem(new Item.Settings().maxCount(1).rarity(Rarity.EPIC)));
+//    public static final Item ABYSS_WAND = registerItems("abyss_wand",
+//            new AbyssWandItem(new Item.Settings().maxCount(1).rarity(Rarity.UNCOMMON)));
 
 //    public static final Item ELECTRIC_SHIELD = registerItems("electric_shield",
 //            new ShieldItem(new Item.Settings().maxCount(1).rarity(Rarity.RARE)));
@@ -92,10 +102,14 @@ public class ModItems {
     public static final Item RAIN_ELF_SPAWN_EGG = registerItems("rain_elf_spawn_egg",
             new SpawnEggItem(ModEntities.RAIN_ELF,0x00FFE5,0x004989, new Item.Settings()));
 
-    public static final Item MOCHI = registerItems("mochi",new Item(new Item.Settings().food(ModFoodComponents.MOCHI)));
-    public static final Item STRAWBERRY = registerItems("strawberry",new Item(new Item.Settings().food(ModFoodComponents.STRAWBERRY)));
-    public static final Item HAWTHORN = registerItems("hawthorn",new Item(new Item.Settings().food(ModFoodComponents.HAWTHORN)));
-    public static final Item CANDIED_HAWTHORN = registerItems("candied_hawthorn",new Item(new Item.Settings().food(ModFoodComponents.CANDIED_HAWTHORN)));
+    public static final Item MOCHI = registerItems("mochi",new MochiFoodItem(new Item.Settings()
+            .food(ModFoodComponents.MOCHI)));
+    public static final Item STRAWBERRY = registerItems("strawberry",new Item(new Item.Settings()
+            .food(ModFoodComponents.STRAWBERRY)));
+    public static final Item HAWTHORN = registerItems("hawthorn",new Item(new Item.Settings()
+            .food(ModFoodComponents.HAWTHORN)));
+    public static final Item CANDIED_HAWTHORN = registerItems("candied_hawthorn",new Item(new Item.Settings()
+            .food(ModFoodComponents.CANDIED_HAWTHORN)));
     public static final Item TANGHULU = registerItems("tanghulu", new TanghuluItem(new Item.Settings()
             .attributeModifiers(SwordItem.createAttributeModifiers
                     (ModToolMaterials.HAWTHORN,3,1f))

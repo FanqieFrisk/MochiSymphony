@@ -30,6 +30,8 @@ public class ModItemGroups {
                     entries.add(ModBlocks.STRIPPED_HERBA_WOOD);
                     entries.add(ModBlocks.STRIPPED_HERBA_LOG);
 
+                    entries.add(ModBlocks.ALCHEMY_TABLE);
+
                 }).build());
 
     public static final ItemGroup MOCHI_NATURE_GROUP = Registry.register(Registries.ITEM_GROUP,Identifier.of(MochiMod.MOD_ID,"mochi_nature_group"),
@@ -65,6 +67,10 @@ public class ModItemGroups {
                     entries.add(ModItems.RAIN_BOOTS);
                     entries.add(ModItems.ORE_TOME);
                     entries.add(ModItems.ELEMENT_TOME);
+                    entries.add(ModItems.BASIC_WAND);
+                    entries.add(ModItems.RAIN_WAND);
+                    entries.add(ModItems.ELECTRIC_WAND);
+                    entries.add(ModItems.HERBA_WAND);
                     entries.add(ModItems.FLAME_WAND);
                     entries.add(ModItems.MUSIC_DISC_QRRS);
                     entries.add(ModItems.MUSIC_DISC_AIR);
@@ -108,7 +114,6 @@ public class ModItemGroups {
                     entries.add(ModItems.HAWTHORN);
                     entries.add(ModItems.CANDIED_HAWTHORN);
                     entries.add(ModItems.TANGHULU);
-//                    entries.add(ModPotions.LUCKY_GLOW_POTION);
 
                 }).build());
 

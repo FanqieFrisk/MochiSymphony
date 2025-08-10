@@ -1,5 +1,6 @@
 package com.friskmochi.mochimod.item;
 
+import com.friskmochi.mochimod.effect.ModStatusEffects;
 import net.minecraft.component.type.FoodComponent;
 import net.minecraft.data.client.Models;
 import net.minecraft.entity.effect.StatusEffectInstance;
@@ -9,7 +10,8 @@ import net.minecraft.item.Items;
 public class ModFoodComponents {
 
     public static final FoodComponent MOCHI = new FoodComponent.Builder().nutrition(5).saturationModifier(0.5f)
-            .statusEffect(new StatusEffectInstance(StatusEffects.LUCK,600),0.1f).build();
+            .statusEffect(new StatusEffectInstance(StatusEffects.LUCK,600),0.1f)
+            .statusEffect(new StatusEffectInstance(ModStatusEffects.MOCHI_SKIN,600),1.0f).build();
     public static final FoodComponent STRAWBERRY = new FoodComponent.Builder().nutrition(4).saturationModifier(0.5f)
             .statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION,100),0.5F).build();
     public static final FoodComponent HAWTHORN = new FoodComponent.Builder().nutrition(2).saturationModifier(0.2f)

@@ -12,4 +12,8 @@ public class ModEntities {
     public static final EntityType<RainElfEntity> RAIN_ELF = Registry.register(Registries.ENTITY_TYPE,
             Identifier.of(MochiMod.MOD_ID, "rain_elf"),
             EntityType.Builder.create(RainElfEntity::new, SpawnGroup.CREATURE).dimensions(1f,1f).build());
-}
+
+        public static void registerEntities() {
+            System.out.println("Registering custom entities for MochiMod~");
+        }
+    }

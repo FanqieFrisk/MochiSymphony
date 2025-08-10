@@ -5,6 +5,8 @@
   "itemGroup.mochi_fad_group": "モチ交響曲 - 食べ物と飲み物",
   "itemGroup.mochi_nature_group": "モチ交響曲 - 自然",
 
+  "gui.alchemy_table_block.text": "深淵テーブル",
+
   "advancements.mochisymphony.root.title": "モチ交響曲",
   "advancements.mochisymphony.root.description": "「それは紺碧の夢、そして深紅の血。」",
   "advancements.mochisymphony.tanghulu.title": "タンフールー",
@@ -61,9 +63,27 @@
   "item.mochisymphony.rain_shovel": "雨のシャベル",
   "item.mochisymphony.rain_hoe": "雨のクワ",
 
+  "item.mochisymphony.basic_wand": "基本の杖",
+  "item.mochisymphony.basic_wand.tooltip.line1": "最も基本的な杖。",
+  "item.mochisymphony.basic_wand.tooltip.line2": "クールダウン3秒、単体対象に8の魔法ダメージを与える。",
+  "item.mochisymphony.basic_wand.tooltip.line3": "使用時に消費: §e【金インゴット】§r",
+  "item.mochisymphony.rain_wand": "雨の杖",
+  "item.mochisymphony.rain_wand.tooltip.line1": "液体の記憶が青い涙晶へと凝固する。",
+  "item.mochisymphony.rain_wand.tooltip.line2": "30秒のクールダウン、持続時間8秒。チャージすると直線15ブロックに15から5へと徐々に減少する魔法ダメージを与えます。",
+  "item.mochisymphony.rain_wand.tooltip.line3": "使用時に消費：§b【雨欠片】§r",
+  "item.mochisymphony.electric_wand": "电の杖",
+  "item.mochisymphony.electric_wand.tooltip.line1": "電光が葉脈に古の箴言を刻む。",
+  "item.mochisymphony.electric_wand.tooltip.line2": "クールダウン5秒、中心から直径10ブロック範囲に20魔法ダメージ、4秒間スロー＆採掘低下。",
+  "item.mochisymphony.electric_wand.tooltip.line3": "使用時に消費：§d【电欠片】§r",
+  "item.mochisymphony.herba_wand": "草の杖",
+  "item.mochisymphony.herba_wand.tooltip.line1": "大地が星屑のような燐光で咲き誇る。",
+  "item.mochisymphony.herba_wand.tooltip.line2": "クールダウン100秒、50秒間20個の仮のハート、さらに30秒間再生・20秒間耐性。",
+  "item.mochisymphony.herba_wand.tooltip.line3": "使用時に消費：§a【草欠片】§r",
+  "item.mochisymphony.herba_wand.no_nugget": "所持不足：§a【草欠片】§r",
   "item.mochisymphony.flame_wand": "火の杖",
-  "item.mochisymphony.flame_wand.tooltip.line1": "マグマで鍛えられ、深紅の瑪瑙へと昇華された叙事詩。",
-  "item.mochisymphony.flame_wand.tooltip.line2": "発射時に消費されるアイテム：§c[火欠片]§r",
+  "item.mochisymphony.flame_wand.tooltip.line1": "マグマが深紅の瑪瑙に鍛えられた叙事詩。",
+  "item.mochisymphony.flame_wand.tooltip.line2": "クールダウン3秒、最大30ブロック直線に13魔法ダメージ。",
+  "item.mochisymphony.flame_wand.tooltip.line3": "使用時に消費：§c【火欠片】§r",
 
   "item.mochisymphony.rain_helmet": "雨のヘルメット",
   "item.mochisymphony.rain_chestplate": "雨のチェストプレート",
@@ -87,6 +107,8 @@
   "block.mochisymphony.electric_extract_ore": "电欠片鉱石",
   "block.mochisymphony.flame_crystalline_ore": "火欠片鉱石",
   "block.mochisymphony.herba_nugget_ore": "草欠片鉱石",
+
+  "block.mochisymphony.alchemy_table": "深淵テーブル",
 
   "block.mochisymphony.herba_wood": "草の木",
   "block.mochisymphony.herba_log": "草の原木",

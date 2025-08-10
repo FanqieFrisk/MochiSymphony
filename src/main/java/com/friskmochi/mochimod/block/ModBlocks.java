@@ -1,6 +1,7 @@
 package com.friskmochi.mochimod.block;
 
 import com.friskmochi.mochimod.MochiMod;
+import com.friskmochi.mochimod.block.custom.AlchemyTableBlock;
 import com.friskmochi.mochimod.world.tree.ModTreeGenerator;
 import net.minecraft.block.*;
 import net.minecraft.entity.effect.StatusEffects;
@@ -44,6 +45,9 @@ public class ModBlocks {
     public static final Block HERBA_SAPLING = register("herba_sapling",
             new SaplingBlock(ModTreeGenerator.HERBA_TREE, AbstractBlock.Settings.copy(Blocks.OAK_SAPLING)));
 
+    public static final Block ALCHEMY_TABLE = register("alchemy_table",
+            new AlchemyTableBlock(AbstractBlock.Settings.copy(Blocks.OBSIDIAN)));
+
     public static void registerBlockItems(String id,Block block){
         Item item = Registry.register(Registries.ITEM,Identifier.of(MochiMod.MOD_ID,id),new BlockItem(block,new Item.Settings()));
         if (item instanceof BlockItem){
@@ -54,6 +58,7 @@ public class ModBlocks {
         registerBlockItems(id,block);
         return Registry.register(Registries.BLOCK, Identifier.of(MochiMod.MOD_ID,id),block);
     }
+
     public static void registerModBlocks() {
         MochiMod.LOGGER.info("Registering Blocks");
     }

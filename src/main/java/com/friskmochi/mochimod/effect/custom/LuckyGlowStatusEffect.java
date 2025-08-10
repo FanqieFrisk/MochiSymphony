@@ -25,7 +25,6 @@ public class LuckyGlowStatusEffect extends StatusEffect {
     }
 
     // 应用效果时执行的逻辑
-    // 应用效果时执行的逻辑
     @Override
     public boolean applyUpdateEffect(LivingEntity entity, int amplifier) {
         if (entity instanceof PlayerEntity player) { // 使用Java16模式匹配语法
